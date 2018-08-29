@@ -1,18 +1,18 @@
 //
-//  ColdBaseViewController.m
+//  Cola5veViewController.m
 //  ColaNotes
 //
-//  Created by 可乐超 on 2018/8/21.
+//  Created by 可乐超 on 2018/8/29.
 //  Copyright © 2018年 可乐超. All rights reserved.
 //
 
-#import "ColdBaseViewController.h"
+#import "Cola5veViewController.h"
 
-@interface ColdBaseViewController ()
+@interface Cola5veViewController ()
 
 @end
 
-@implementation ColdBaseViewController
+@implementation Cola5veViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
