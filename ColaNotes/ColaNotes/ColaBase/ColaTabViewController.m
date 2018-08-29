@@ -1,29 +1,27 @@
 //
-//  Cola1stViewController.m
+//  ColaTabViewController.m
 //  ColaNotes
 //
 //  Created by 可乐超 on 2018/8/29.
 //  Copyright © 2018年 可乐超. All rights reserved.
 //
 
+#import "ColaTabViewController.h"
 #import "Cola1stViewController.h"
+#import "Cola2ndViewController.h"
+#import "Cola3rdViewController.h"
+#import "Cola4urViewController.h"
+#import "Cola5veViewController.h"
 
-@interface Cola1stViewController ()
+@interface ColaTabViewController ()
 
 @end
 
-@implementation Cola1stViewController
+@implementation ColaTabViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
-    
-    //  设置导航栏标题
-    [self setNavTitle:@"1st"];
-    
-    //  设置导航栏为自定义的渐变颜色
-    [self setNavItemBackgroundStartColor:ColaHex(0x3ba2ff) endColor:ColaHex(0x3984ff)];
-    
 }
 
 - (void)didReceiveMemoryWarning {

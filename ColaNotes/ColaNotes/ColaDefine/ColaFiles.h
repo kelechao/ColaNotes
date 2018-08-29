@@ -8,10 +8,20 @@
 
 #import <Foundation/Foundation.h>
 
+//////////////////   配置、宏引用   //////////////////
 #import "ColaMacros.h"
 
+//////////////////   基础类引用   //////////////////
 #import "ColaBaseViewController.h"
 #import "ColaNavBaseViewController.h"
+
+//////////////////   扩展类引用   //////////////////
+#import "UIImage+Category.h"
+#import "NSString+Category.h"
+#import "UILabel+Category.h"
+
+//////////////   手动导入第三方引用   /////////////
+
 
 @interface ColaFiles : NSObject
 
